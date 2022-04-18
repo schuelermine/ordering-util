@@ -1,12 +1,21 @@
 # Revision history for ordering-util
 
+## 0.1.3.0 – 2022-04-18
+
+* Added functions `isLE`, `isNE`, `isGE`.
+* Added function `adjustBy`.
+* Updated documentation.
+* Updated older changelog entries.
+* Reformat version bounds for maintainability.
+
 ## 0.1.2.0 — 2022-04-17
 
-* Added Haddock documentation
+* Added Haddock documentation.
 
 ## 0.1.1.0 — 2022-04-16
 
-* Lowered required `base` version to 4.14 to support GHC 8.10.1 and up. This also allows the documentation to be built by Hackage.
+* Lowered required `base` version to 4.14 to support GHC 8.10.1 and up.  
+  This also allows the documentation to be built by Hackage.
 
 ## 0.1.0.0 — 2022-04-16
 
