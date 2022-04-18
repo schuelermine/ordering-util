@@ -65,7 +65,7 @@ toSign o =
 fromSign :: (Ord n, Num n) => n -> Ordering
 fromSign o = compare o 0
 
--- | Adjust a number by a difference up or down
+-- | Adjust a number by a difference up, down, or not at all
 adjustBy :: Num a => a -> Ordering -> a -> a
 adjustBy d o x =
   case o of
