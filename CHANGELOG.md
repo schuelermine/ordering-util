@@ -7,6 +7,7 @@
 * Updated documentation.
 * Updated older changelog entries.
 * Reformat version bounds for maintainability.
+* Reformat cabal file.
 
 ## 0.1.2.0 — 2022-04-17
 
