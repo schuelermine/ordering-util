@@ -1,5 +1,9 @@
 # Revision history for ordering-util
 
+## 0.1.3.2 — 2022-07-20
+
+* Broadened `base` version bounds.
+
 ## 0.1.3.1 — 2022-04-18
 
 * Updated documentation.
